@@ -1,2 +1,2 @@
-# discord-octo-bot
-octo bot
+# pirate-bot
+pirate bot
